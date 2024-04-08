@@ -2,7 +2,7 @@
 
 This Python script facilitates the automated migration of directories and files from a Notion export to Confluence spaces and pages. It is designed to recreate the directory structure of exported Notion content as spaces in Confluence, where Markdown files become Confluence pages and other file types are uploaded as attachments.
 
-![](screenshot.png)
+![](Screenshot.png)
 
 ## Features
 
